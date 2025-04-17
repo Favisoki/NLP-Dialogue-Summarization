@@ -11,8 +11,7 @@ This is part of the Deeplearning.ai Course on [Generative AI with LLMs](https://
 
 
 ## Technologies Used:
-- Language:
-- Python
+- Language: Python
 
 - Dataset:
   - [Dialogsum](https://huggingface.co/datasets/knkarthick/dialogsum)
